@@ -16,7 +16,7 @@ Il compare des méthodes classiques (Clustering, Régression Logistique) sur des
     *   Images plus détaillées, standard de l'industrie pour les benchmarks de vision.
     *   784 caractéristiques par image (traitées comme une grille 28x28x1).
 
-## éthodologie
+## Méthodologie
 
 Le notebook est structuré en plusieurs étapes logiques :
 
